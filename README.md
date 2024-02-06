@@ -86,9 +86,7 @@ Exercício 2: Verifica a media, diferenca, produto, divisao entre dois numeros.
 Exercício 3: Verifica se o alimento e perecivel ou nao perecivel.
 <br>
 
-##Licença
-Este projeto está licenciado sob a [Felipe Casale].
-
-
-##Contato
+## Licença
+Este projeto está licenciado sob a [Felipe Casale]. 
+## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
