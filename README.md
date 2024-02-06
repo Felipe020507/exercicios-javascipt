@@ -84,4 +84,11 @@ Exercício 1: Exibe uma estaçao pelo numero.
 Exercício 2: Verifica a media, diferenca, produto, divisao entre dois numeros.
 <br>
 Exercício 3: Verifica se o alimento e perecivel ou nao perecivel.
+<br>
 
+##Licença
+Este projeto está licenciado sob a [Felipe Casale].
+
+
+##Contato
+Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
