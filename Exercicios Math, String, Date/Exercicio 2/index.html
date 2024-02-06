@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Detalhes do Funcionário</title>
+</head>
+<body>
+  <h1>Detalhes do Funcionário</h1>
+
+  <form id="formulario">
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" required><br>
+
+    <label for="dataContratacao">Data de Contratação:</label>
+    <input type="date" id="dataContratacao" required><br>
+
+    <label for="dataDemissao">Data de Demissão:</label>
+    <input type="date" id="dataDemissao"><br>
+
+    <label for="horasExtras">Horas Extras:</label>
+    <input type="number" id="horasExtras" required><br>
+
+    <label for="salario">Salário:</label>
+    <input type="number" id="salario" required><br>
+
+    <button type="submit">Calcular Detalhes</button>
+  </form>
+
+  <div id="resultado">
+    <!-- Aqui serão exibidos os detalhes do funcionário -->
+  </div>
+  
+  <script type="module" src="./_js/Principal.js"></script>
+</body>
+</html>
