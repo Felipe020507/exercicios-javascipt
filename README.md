@@ -87,6 +87,6 @@ Exercício 3: Verifica se o alimento e perecivel ou nao perecivel.
 <br>
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
